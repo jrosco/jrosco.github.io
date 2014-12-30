@@ -1,17 +1,15 @@
-Welcome to My Development Page!
-===================
 Hi, My name is Joel C (AKA jrosco), I'm the current developer of all the projects found below.
 
 ***
-My Projects
+my projects
 ---
-* Multi Whois Client - http://sourceforge.net/projects/xwh0i5/
+* multi whois client - http://sourceforge.net/projects/xwh0i5/
 * mwhois python module - http://jrosco.github.io/mwhois 
 * linux-gravtar -  http://jrosco.github.io/linux-gravatar
 
 ***
 
-Current Build States
+current build states
 ---
 |Project|Build State|
 |---|---|
@@ -19,19 +17,19 @@ Current Build States
 
 ***
 
-Publications
+publications
 ---
-Multi Whois Client - [Softpedia Review](http://www.softpedia.com/get/Network-Tools/Traceroute-Whois-Tools/Multi-Whois.shtml)
+Multi Whois Client - [softpedia sotfware review](http://www.softpedia.com/get/Network-Tools/Traceroute-Whois-Tools/Multi-Whois.shtml)
 
 ***
 
-Resume
+online resume
 ---
-[Current Resume](http://www.doyoubuzz.com/joel-cumberland)
+[current resume](http://www.doyoubuzz.com/joel-cumberland)
 
 ***
-Contact Me
+contact me
 ---
-joel_c at zoho dot com
+[contact](http://www.doyoubuzz.com/joel-cumberland/cv/contact)
 
 ***
