@@ -1,4 +1,4 @@
-defaults:
+default:
   -
     scope:
       path: ""
@@ -6,3 +6,15 @@ defaults:
     values:
       layout: "default"
       author: Joel Cumberland
+
+posts_lists:
+  -
+    scope:
+      path: "/posts/"
+      type: posts
+      paginate: 1
+      paginate_path: "posts/page:num/"
+    values:
+      layout: "post_lists"
+      author: Joel Cumberland
+
