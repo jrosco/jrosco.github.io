@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multi Whois Client new release v1.0.1
-permalink: /releases/mwhois-v1.0.1
+permalink: /releases/multi-whois-v1.0.1
 category: releases
 ---
 
