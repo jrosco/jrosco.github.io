@@ -19,6 +19,7 @@ posts_lists:
       author: Joel Cumberland
 
 analytics :
+  -
     provider : google
       google :
         tracking_id : 'UA-58456085-1'
