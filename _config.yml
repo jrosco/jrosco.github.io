@@ -1,25 +1,24 @@
-default:
-  -
-    scope:
+--- 
+analytics: 
+  - 
+    google: 
+      tracking_id: UA-58456085-1
+    provider: google
+default: 
+  - 
+    scope: 
       path: ""
       type: pages
-    values:
-      layout: "default"
-      author: Joel Cumberland
-
-posts_lists:
-  -
-    scope:
-      path: "/posts/"
-      type: posts
+    values: 
+      author: "Joel Cumberland"
+      layout: default
+posts_lists: 
+  - 
+    scope: 
       paginate: 1
       paginate_path: "posts/page:num/"
-    values:
-      layout: "post_lists"
-      author: Joel Cumberland
-
-analytics :
-  -
-    provider : google
-      google :
-        tracking_id : 'UA-58456085-1'
+      path: /posts/
+      type: posts
+    values: 
+      author: "Joel Cumberland"
+      layout: post_lists
